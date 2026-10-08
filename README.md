@@ -89,55 +89,76 @@ APPROACH    : Build • Learn • Solve
 <tr>
 <td>
 
-🚀 Featured Projects
-<table width="100%">
+---
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
 
 <td width="33%" valign="top">
 
-🔬 siheal
-siheal
+### 🔬 siheal
+
+**`siheal`**
+
 A health-focused application with a Python backend and React frontend, designed around health-risk conditions and notification workflows.
-Built with
-Python React Jupyter Notebook
+
+**Built with**
+
+`Python` `React` `Jupyter Notebook`
+
+<br>
 
 <a href="https://github.com/vandavasi-kumar/siheal">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View siheal">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View siheal">
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-🌱 HTK Farms
-htk_farms
+### 🌱 HTK Farms
+
+**`htk_farms`**
+
 A full-stack Django e-commerce platform for selling organic farm products online, with authentication, cart management, coupons, checkout, orders, stock management, and an admin dashboard.
-Built with
-Django Python HTML CSS Bootstrap
+
+**Built with**
+
+`Django` `Python` `HTML` `CSS` `Bootstrap`
+
+<br>
 
 <a href="https://github.com/vandavasi-kumar/htk_farms">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View HTK Farms">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View HTK Farms">
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-🏥 Hospital Management System
-Hospital_management
+### 🏥 Hospital Management System
+
+**`Hospital_management`**
+
 A Django-based hospital management system for managing doctors, patients, appointments, and administrative operations through a centralized web application.
-Built with
-Python Django HTML5 CSS3 Bootstrap SQLite
+
+**Built with**
+
+`Python` `Django` `HTML5` `CSS3` `Bootstrap` `SQLite`
+
+<br>
 
 <a href="https://github.com/vandavasi-kumar/Hospital_management">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D084?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D084?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System">
 </a>
 
 </td>
 
 </tr>
 </table>
-
+---
 </td>
 </tr>
 </table>
