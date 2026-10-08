@@ -57,47 +57,73 @@ APPROACH    → Build • Learn • Solve
 </tr>
 </table>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-🌐 Django Portfolio
-kumar-dev-portfolio
-A Django-based personal developer portfolio using Django, HTML, CSS and Vanilla JavaScript.
+### 🌐 Django Portfolio
+
+**`kumar-dev-portfolio`**
+
+A Django-based personal developer portfolio.
+
+**Built with**
+
+`Django` `HTML` `CSS` `JavaScript`
+
+<br>
 
 <a href="https://github.com/vandavasi-kumar/kumar-dev-portfolio">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Django portfolio">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project">
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-🎓 Student Record System
-student_record_system
+### 🎓 Student Record System
+
+**`student_record_system`**
+
 A Python + MySQL CRUD application for managing student records with validation.
 
+**Built with**
+
+`Python` `MySQL`
+
+<br>
+
 <a href="https://github.com/vandavasi-kumar/student_record_system">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View student record system">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project">
 </a>
 
 </td>
 
 <td width="33%" valign="top">
 
-🔬 Siheal
-siheal
-A public project on GitHub that is part of my development journey.
+### 🔬 Siheal
+
+**`siheal`**
+
+A public project currently evolving on GitHub.
+
+**Status**
+
+`Public project`
+
+<br>
 
 <a href="https://github.com/vandavasi-kumar/siheal">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D084?style=for-the-badge&logo=github&logoColor=white" alt="View Siheal">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project">
 </a>
 
 </td>
 </tr>
 </table>
-
 🛠️ Tech Stack
 <div align="center">
 
