@@ -4,7 +4,7 @@
 
 <a href="https://github.com/vandavasi-kumar">
   <img
-    src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fvandavasi-kumar.png%3Fsize%3D400%26v%3D2&w=360&h=360&fit=cover&mask=circle"
+    src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fvandavasi-kumar.png%3Fsize%3D400&w=360&h=360&fit=cover&mask=circle"
     width="175"
     height="175"
     alt="Vandavasi Kumar GitHub profile photo"
