@@ -1,34 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=VANDAVASI%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:6C63FF,50:00C2FF,100:00D084" alt="Vandavasi Kumar colorful header">
+<a href="https://github.com/vandavasi-kumar">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=VANDAVASI%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=44&fontColor=ffffff&animation=fadeIn&color=0:0B1026,35:5B21B6,65:0EA5E9,100:00D084" width="100%" alt="Vandavasi Kumar colorful header">
+</a>
 
 <table>
 <tr>
-<td width="28%" align="center">
-<img src="https://github.com/vandavasi-kumar.png?size=400" width="190" height="190" alt="Vandavasi Kumar GitHub profile photo">
+<td width="25%" align="center">
+
+<a href="https://github.com/vandavasi-kumar">
+  <img src="https://github.com/vandavasi-kumar.png?size=400" width="180" height="180" style="border-radius:50%" alt="Vandavasi Kumar GitHub profile photo">
+</a>
+
 </td>
-<td width="72%" align="left">
+<td width="75%" align="left">
 
 👋 Hi, I'm Vandavasi Kumar
 AI & Python Full-Stack Developer
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00C2FF&width=600&lines=Python+%7C+Django+%7C+MySQL;Building+practical+web+applications;Exploring+AI+%26+modern+web+development;Build+%E2%80%A2+Learn+%E2%80%A2+Solve+%E2%80%A2+Contribute" alt="Animated typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=00C2FF&width=650&lines=Python+%7C+Django+%7C+MySQL;Building+practical+web+applications;Exploring+AI+%26+modern+web+development;Build+%E2%80%A2+Learn+%E2%80%A2+Solve+%E2%80%A2+Contribute" alt="Animated introduction">
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Web-Development-1572B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development">
+<img src="https://img.shields.io/badge/AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
 
 </td>
 </tr>
 </table>
 
 <p>
-<img src="https://img.shields.io/github/followers/vandavasi-kumar?label=Followers&style=flat-square&logo=github" alt="GitHub followers">
-<img src="https://img.shields.io/github/stars/vandavasi-kumar?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="GitHub stars">
-<img src="https://komarev.com/ghpvc/?username=vandavasi-kumar&style=flat-square&color=6C63FF" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/vandavasi-kumar?label=Followers&style=flat-square&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/vandavasi-kumar?affiliations=OWNER&style=flat-square&logo=github&label=Stars" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=vandavasi-kumar&style=flat-square&color=6C63FF" alt="Profile views">
 </p>
 
 </div>
@@ -39,16 +44,15 @@ AI & Python Full-Stack Developer
 <td width="60%" valign="top">
 
 I build web applications with Python and Django, work with MySQL, and enjoy exploring AI and modern web development.
-My GitHub work includes a Django-based personal portfolio and Python/MySQL projects such as a student record management system.
+My current GitHub work includes a Django-based developer portfolio and Python/MySQL projects such as a student record management system.
 </td>
 <td width="40%" valign="top">
 
-⚡ Current Focus
-🐍 Python
-🌐 Django
-🗄️ MySQL
-🤖 AI
-💻 Web Development
+NAME        → Vandavasi Kumar
+ROLE        → AI & Python Full-Stack Developer
+FOCUS       → Python • Django • MySQL
+EXPLORING   → AI • Web Development
+APPROACH    → Build • Learn • Solve
 </td>
 </tr>
 </table>
@@ -61,8 +65,9 @@ My GitHub work includes a Django-based personal portfolio and Python/MySQL proje
 🌐 Django Portfolio
 kumar-dev-portfolio
 A Django-based personal developer portfolio using Django, HTML, CSS and Vanilla JavaScript.
+
 <a href="https://github.com/vandavasi-kumar/kumar-dev-portfolio">
-<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Django portfolio">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Django portfolio">
 </a>
 
 </td>
@@ -72,8 +77,9 @@ A Django-based personal developer portfolio using Django, HTML, CSS and Vanilla 
 🎓 Student Record System
 student_record_system
 A Python + MySQL CRUD application for managing student records with validation.
+
 <a href="https://github.com/vandavasi-kumar/student_record_system">
-<img src="https://img.shields.io/badge/View%20Project-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View student record system">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View student record system">
 </a>
 
 </td>
@@ -83,8 +89,9 @@ A Python + MySQL CRUD application for managing student records with validation.
 🔬 Siheal
 siheal
 A public project on GitHub that is part of my development journey.
+
 <a href="https://github.com/vandavasi-kumar/siheal">
-<img src="https://img.shields.io/badge/View%20Project-00D084?style=for-the-badge&logo=github&logoColor=white" alt="View Siheal">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D084?style=for-the-badge&logo=github&logoColor=white" alt="View Siheal">
 </a>
 
 </td>
@@ -109,14 +116,14 @@ Area	Technologies
 
 </div>
 
-📊 GitHub Dashboard
+📊 GitHub
 <div align="center">
 
 <a href="https://github.com/vandavasi-kumar">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vandavasi-kumar&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vandavasi-kumar&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Vandavasi Kumar GitHub statistics">
 </a>
 <a href="https://github.com/vandavasi-kumar">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandavasi-kumar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandavasi-kumar&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
 </a>
 
 
@@ -131,18 +138,24 @@ BUILD       → Practical web applications
 LEARN       → Python • Django • MySQL • AI
 SOLVE       → Real-world development problems
 CONTRIBUTE  → Keep building in public
+📈 My GitHub Journey
 <div align="center">
 
 <a href="https://github.com/vandavasi-kumar?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+</a>
+&nbsp;
+<a href="https://github.com/vandavasi-kumar">
+  <img src="https://img.shields.io/badge/VIEW%20MY%20PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View profile">
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D084,50:00C2FF,100:6C63FF" alt="Colorful footer">
+<a href="https://github.com/vandavasi-kumar">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=🚀%20Build%20%20%20%20📚%20Learn%20%20%20%20⚙️%20Solve%20%20%20%20❤️%20Contribute&fontSize=22&fontColor=ffffff&animation=fadeIn&color=0:00D084,35:00C2FF,70:6C63FF,100:EC4899" width="100%" alt="Colorful footer">
+</a>
 
-💡 Build • Learn • Solve • Contribute
-<sub>Thanks for visiting my profile! 👋</sub>
+Thanks for visiting my profile! 👋
 </div>
