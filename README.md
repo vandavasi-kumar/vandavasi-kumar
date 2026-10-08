@@ -59,71 +59,65 @@ APPROACH    → Build • Learn • Solve
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🌐 Django Portfolio
-
-**`kumar-dev-portfolio`**
-
-A Django-based personal developer portfolio.
-
-**Built with**
-
-`Django` `HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/vandavasi-kumar/kumar-dev-portfolio">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project">
-</a>
-
-</td>
 
 <td width="33%" valign="top">
 
-### 🎓 Student Record System
-
-**`student_record_system`**
-
-A Python + MySQL CRUD application for managing student records with validation.
-
-**Built with**
-
-`Python` `MySQL`
-
-<br>
-
-<a href="https://github.com/vandavasi-kumar/student_record_system">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project">
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔬 Siheal
+### 🔬 siheal
 
 **`siheal`**
 
-A public project currently evolving on GitHub.
-
-**Status**
-
-`Public project`
+A public project from my GitHub development work.
 
 <br>
 
 <a href="https://github.com/vandavasi-kumar/siheal">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View siheal">
 </a>
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🌱 HTK Forms
+
+**`htk_farms`**
+
+A JavaScript project from my GitHub development work.
+
+<br>
+
+<a href="https://github.com/vandavasi-kumar/htk_farms">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View HTK Forms">
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏥 Hospital Management System
+
+**`Hospital_management`**
+
+A Python project from my GitHub development work.
+
+<br>
+
+<a href="https://github.com/vandavasi-kumar/Hospital_management">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D084?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System">
+</a>
+
+</td>
+
 </tr>
 </table>
+---
+---
 🛠️ Tech Stack
 <div align="center">
 
