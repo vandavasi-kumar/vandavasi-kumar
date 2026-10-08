@@ -1,3 +1,5 @@
+this is existing git code <div align="center">
+
 <a href="https://github.com/vandavasi-kumar">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=VANDAVASI%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=44&fontColor=ffffff&animation=fadeIn&color=0:0B1026,35:5B21B6,65:0EA5E9,100:00D084" width="100%" alt="Vandavasi Kumar colorful header">
 </a>
@@ -7,11 +9,8 @@
 <td width="25%" align="center">
 
 <a href="https://github.com/vandavasi-kumar">
-<td width="27%" align="center">
-
-<img src="https://github.com/vandavasi-kumar.png?size=400" width="180" height="180" style="border-radius:50%" alt="Vandavasi Kumar GitHub profile photo">
-
-</td></a>
+  <img src="https://github.com/vandavasi-kumar.png?size=400" width="180" height="180" style="border-radius:50%" alt="Vandavasi Kumar GitHub profile photo">
+</a>
 
 </td>
 <td width="75%" align="left">
@@ -73,13 +72,13 @@ APPROACH    → Build • Learn • Solve
 
 ### 🔬 siheal
 
-**siheal**
+**`siheal`**
 
 A health-focused application with a Python backend and React frontend, designed around health-risk conditions and notification workflows.
 
 **Built with**
 
-Python React Jupyter Notebook
+`Python` `React` `Jupyter Notebook`
 
 <br>
 
@@ -93,13 +92,13 @@ Python React Jupyter Notebook
 
 ### 🌱 HTK Farms
 
-**htk_farms**
+**`htk_farms`**
 
 A full-stack Django e-commerce platform for selling organic farm products online, with authentication, cart management, coupons, checkout, orders, stock management, and an admin dashboard.
 
 **Built with**
 
-Django Python HTML CSS Bootstrap
+`Django` `Python` `HTML` `CSS` `Bootstrap`
 
 <br>
 
@@ -113,13 +112,13 @@ Django Python HTML CSS Bootstrap
 
 ### 🏥 Hospital Management System
 
-**Hospital_management**
+**`Hospital_management`**
 
 A Django-based hospital management system for managing doctors, patients, appointments, and administrative operations through a centralized web application.
 
 **Built with**
 
-Python Django HTML5 CSS3 Bootstrap SQLite
+`Python` `Django` `HTML5` `CSS3` `Bootstrap` `SQLite`
 
 <br>
 
@@ -194,3 +193,6 @@ CONTRIBUTE  → Keep building in public
 
 Thanks for visiting my profile! 👋
 </div>
+
+
+
