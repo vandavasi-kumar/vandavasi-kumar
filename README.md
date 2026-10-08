@@ -85,9 +85,6 @@ APPROACH    : Build • Learn • Solve
 
 <!-- ========================= PROJECTS ========================= -->
 
-<table width="100%" border="1" cellpadding="14" cellspacing="0">
-<tr>
-<td>
 
 ---
 
@@ -159,9 +156,7 @@ A Django-based hospital management system for managing doctors, patients, appoin
 </tr>
 </table>
 ---
-</td>
-</tr>
-</table>
+
 
 <!-- ========================= TECH STACK ========================= -->
 
