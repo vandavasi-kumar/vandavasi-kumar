@@ -9,12 +9,7 @@
 <a href="https://github.com/vandavasi-kumar">
 <td width="27%" align="center">
 
-<img
-  src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fvandavasi-kumar.png%3Fsize%3D400&w=360&h=360&fit=cover&mask=circle"
-  width="180"
-  height="180"
-  alt="Vandavasi Kumar GitHub profile photo"
->
+<img src="https://github.com/vandavasi-kumar.png?size=400" width="180" height="180" style="border-radius:50%" alt="Vandavasi Kumar GitHub profile photo">
 
 </td></a>
 
