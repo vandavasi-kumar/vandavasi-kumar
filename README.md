@@ -61,6 +61,8 @@ APPROACH    → Build • Learn • Solve
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -72,7 +74,11 @@ APPROACH    → Build • Learn • Solve
 
 **`siheal`**
 
-A public project from my GitHub development work.
+A health-focused application with a Python backend and React frontend, designed around health-risk conditions and notification workflows.
+
+**Built with**
+
+`Python` `React` `Jupyter Notebook`
 
 <br>
 
@@ -84,16 +90,20 @@ A public project from my GitHub development work.
 
 <td width="33%" valign="top">
 
-### 🌱 HTK Forms
+### 🌱 HTK Farms
 
 **`htk_farms`**
 
-A JavaScript project from my GitHub development work.
+A full-stack Django e-commerce platform for selling organic farm products online, with authentication, cart management, coupons, checkout, orders, stock management, and an admin dashboard.
+
+**Built with**
+
+`Django` `Python` `HTML` `CSS` `Bootstrap`
 
 <br>
 
 <a href="https://github.com/vandavasi-kumar/htk_farms">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View HTK Forms">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A8FF?style=for-the-badge&logo=github&logoColor=white" alt="View HTK Farms">
 </a>
 
 </td>
@@ -104,7 +114,11 @@ A JavaScript project from my GitHub development work.
 
 **`Hospital_management`**
 
-A Python project from my GitHub development work.
+A Django-based hospital management system for managing doctors, patients, appointments, and administrative operations through a centralized web application.
+
+**Built with**
+
+`Python` `Django` `HTML5` `CSS3` `Bootstrap` `SQLite`
 
 <br>
 
@@ -117,7 +131,7 @@ A Python project from my GitHub development work.
 </tr>
 </table>
 ---
----
+
 🛠️ Tech Stack
 <div align="center">
 
