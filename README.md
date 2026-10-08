@@ -3,7 +3,12 @@
 <!-- ========================= HEADER ========================= -->
 
 <a href="https://github.com/vandavasi-kumar">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=VANDAVASI%20KUMAR&fontAlign=64&fontAlignY=42&fontSize=46&fontColor=ffffff&animation=fadeIn&color=0:06152F,35:153E90,65:6C1FD1,100:00C2FF" width="100%" alt="Vandavasi Kumar header">
+  <img
+    src="https://wsrv.nl/?url=https%3A%2F%2Fgithub.com%2Fvandavasi-kumar.png%3Fsize%3D400%26v%3D2&w=360&h=360&fit=cover&mask=circle"
+    width="175"
+    height="175"
+    alt="Vandavasi Kumar GitHub profile photo"
+  >
 </a>
 
 <table>
